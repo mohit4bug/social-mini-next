@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-social-dark {
+    @apply bg-neutral-900;
+}
+
+.bg-social-card {
+    @apply bg-neutral-800;
+}
+
+.bg-social-highlight {
+    @apply bg-blue-500;
+}
+.text-social-highlight{
+    @apply text-blue-500;
+}
+
+.text-social-primary{
+    @apply text-zinc-300;
+}
+
+.text-social-secondary{
+    @apply text-zinc-500;
+}
